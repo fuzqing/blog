@@ -17,12 +17,12 @@ theme = "maupassant"
   [[menu.main]]
     identifier = "archives"
     name = "归档"
-    url = "/archives"
+    url = "/archives/"
     weight = 2
   [[menu.main]]
     identifier = "about"
     name = "关于"
-    url = "/about"
+    url = "/about/"
     weight = 3
 
 [[params.links]]
